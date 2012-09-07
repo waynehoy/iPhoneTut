@@ -1,0 +1,256 @@
+TiPhoneTut
+v7
+r0
+t368594873.123053
+cCheck dependencies
+cProcessInfoPlistFile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/Info.plist iPhoneTut-Info.plist
+cCompileXIB /Users/Wayne/Desktop/iPhoneTut/MainWindow.xib
+cCompileXIB /Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib
+cProcessPCH /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch.gch iPhoneTut_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/main.o /Users/Wayne/Desktop/iPhoneTut/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutAppDelegate.o /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutViewController.o /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut normal i386
+cGenerateDSYMFile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app.dSYM /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut
+cTouch /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c0000000050480EE50000000000000110
+t1346899685
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.h
+c000000005048168500000000000001E9
+t1346901637
+s489
+i<UIKit/UIKit.h>
+
+N/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m
+c00000000504816850000000000000AB2
+t1346901637
+s2738
+i"iPhoneTutAppDelegate.h"
+i"iPhoneTutViewController.h"
+
+N/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.h
+c000000005048168500000000000000F2
+t1346901637
+s242
+i<UIKit/UIKit.h>
+
+N/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m
+c000000005048168500000000000005C7
+t1346901637
+s1479
+i"iPhoneTutViewController.h"
+
+N/Users/Wayne/Desktop/iPhoneTut/MainWindow.xib
+c00000000504816850000000000004E41
+t1346901637
+s20033
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app
+t1346902073
+s238
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app.dSYM
+t1346902073
+s102
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/Info.plist
+t1346902070
+s599
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/MainWindow.nib
+t1346902071
+s1685
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/PkgInfo
+t1346902070
+s8
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut
+t1346902073
+s17124
+
+N/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTutViewController.nib
+t1346902071
+s1269
+
+N/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTut.LinkFileList
+c00000000504818360000000000000185
+t1346902070
+s389
+
+N/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutAppDelegate.o
+t1346902072
+s51412
+
+N/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutViewController.o
+t1346902072
+s37972
+
+N/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/main.o
+t1346902072
+s6296
+
+N/Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib
+c00000000504816850000000000001A4D
+t1346901637
+s6733
+
+N/Users/Wayne/Desktop/iPhoneTut/iPhoneTut_Prefix.pch
+c000000005048168500000000000000BB
+t1346901637
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Wayne/Desktop/iPhoneTut/main.m
+c00000000504816850000000000000169
+t1346901637
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch.gch
+t1346902072
+s15814064
+
+NiPhoneTut-Info.plist
+c0000000050481685000000000000038D
+t1346901637
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies368594870#368594870#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutAppDelegate.o /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368594872.559874
+e368594872.719673
+r1
+xCompileC
+xbuild/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutAppDelegate.o
+x/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m368594872#368594872#0(0"0(0#0#61"/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m8597914144#1906"    cd /Users/Wayne/Desktop/iPhoneTut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-generated-files.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-own-target-headers.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-all-target-headers.hmap -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-project-headers.hmap -F/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -I/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/include -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources/i386 -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources -include /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch -c /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutAppDelegate.m -o /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutAppDelegate.o0#
+
+CCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutViewController.o /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368594872.695574
+e368594872.762160
+r1
+xCompileC
+xbuild/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutViewController.o
+x/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m368594872#368594872#0(0"0(0#0#64"/Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m8606522368#1912"    cd /Users/Wayne/Desktop/iPhoneTut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-generated-files.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-own-target-headers.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-all-target-headers.hmap -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-project-headers.hmap -F/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -I/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/include -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources/i386 -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources -include /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch -c /Users/Wayne/Desktop/iPhoneTut/Classes/iPhoneTutViewController.m -o /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTutViewController.o0#
+
+CCompileC build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/main.o /Users/Wayne/Desktop/iPhoneTut/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s368594872.558567
+e368594872.695473
+r1
+xCompileC
+xbuild/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/main.o
+x/Users/Wayne/Desktop/iPhoneTut/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/Wayne/Desktop/iPhoneTut/main.m368594872#368594872#0(0"0(0#0#37"/Users/Wayne/Desktop/iPhoneTut/main.m8606223072#1866"    cd /Users/Wayne/Desktop/iPhoneTut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-generated-files.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-own-target-headers.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-all-target-headers.hmap -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-project-headers.hmap -F/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -I/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/include -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources/i386 -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources -include /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch -c /Users/Wayne/Desktop/iPhoneTut/main.m -o /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Wayne/Desktop/iPhoneTut/MainWindow.xib
+s368594870.571466
+e368594871.148078
+r1
+xCompileXIB
+x/Users/Wayne/Desktop/iPhoneTut/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib368594870#368594871#0(0"0(0#0#45"/Users/Wayne/Desktop/iPhoneTut/MainWindow.xib8606461696#548"    cd /Users/Wayne/Desktop/iPhoneTut    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/MainWindow.nib /Users/Wayne/Desktop/iPhoneTut/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib
+s368594870.584682
+e368594871.144371
+r1
+xCompileXIB
+x/Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib
+lSLF07#2@38"CompileXIB iPhoneTutViewController.xib368594870#368594871#0(0"0(0#0#58"/Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib8594298272#574"    cd /Users/Wayne/Desktop/iPhoneTut    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTutViewController.nib /Users/Wayne/Desktop/iPhoneTut/iPhoneTutViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app.dSYM /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut
+s368594873.046649
+e368594873.119938
+r1
+xGenerateDSYMFile
+x/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app.dSYM
+x/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/iPhoneTut.app.dSYM build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut368594873#368594873#0(0"0(0#0#82"/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut8609448224#365"    cd /Users/Wayne/Desktop/iPhoneTut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut -o /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app.dSYM0#
+
+CLd /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut normal i386
+s368594872.762251
+e368594873.046545
+r1
+xLd
+x/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut
+xnormal
+xi386
+lSLF07#2@87"Link /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut368594872#368594873#0(0"0(0#0#0"8606083680#870"    cd /Users/Wayne/Desktop/iPhoneTut    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -F/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -filelist /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/Objects-normal/i386/iPhoneTut.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/iPhoneTut0#
+
+CProcessInfoPlistFile /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/Info.plist iPhoneTut-Info.plist
+s368594870.471029
+e368594870.571349
+r1
+xProcessInfoPlistFile
+x/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/Info.plist
+xiPhoneTut-Info.plist
+lSLF07#2@28"Process iPhoneTut-Info.plist368594870#368594870#0(0"0(0#0#51"/Users/Wayne/Desktop/iPhoneTut/iPhoneTut-Info.plist27303536605069420#461"    cd /Users/Wayne/Desktop/iPhoneTut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhoneTut-Info.plist -genpkginfo /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app/Info.plist0#
+
+CProcessPCH /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch.gch iPhoneTut_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s368594871.148256
+e368594872.558346
+r1
+xProcessPCH
+x/var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch.gch
+xiPhoneTut_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile iPhoneTut_Prefix.pch368594871#368594872#0(0"0(0#0#51"/Users/Wayne/Desktop/iPhoneTut/iPhoneTut_Prefix.pch8595591872#1764"    cd /Users/Wayne/Desktop/iPhoneTut    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-generated-files.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-own-target-headers.hmap -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-all-target-headers.hmap -iquote /Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/iPhoneTut-project-headers.hmap -F/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator -I/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/include -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources/i386 -I/Users/Wayne/Desktop/iPhoneTut/build/iPhoneTut.build/Debug-iphonesimulator/iPhoneTut.build/DerivedSources -c /Users/Wayne/Desktop/iPhoneTut/iPhoneTut_Prefix.pch -o /var/folders/4G/4GEUty07ED0lBExuNTF0lU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPhoneTut_Prefix-aazygrukwvkhufevhycxjtjatweq/iPhoneTut_Prefix.pch.gch0#
+
+CTouch /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app
+s368594873.120023
+e368594873.123002
+r1
+xTouch
+x/Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app
+lSLF07#2@78"Touch /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app368594873#368594873#0(0"0(0#0#0"8609462208#264"    cd /Users/Wayne/Desktop/iPhoneTut    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Wayne/Desktop/iPhoneTut/build/Debug-iphonesimulator/iPhoneTut.app0#
+
